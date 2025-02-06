@@ -54,17 +54,16 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer" title='Linux'> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/768px-Icons8_flat_linux.svg.png" alt="linux" width="50" height="50"/> </a> 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" title='Bash'> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="50" height="50" /> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title='Git'> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> 
-  <a href="https://github.com" target="_blank" rel="noreferrer" title='GitHub'> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Font_Awesome_5_brands_github-square.svg" alt="gitHub" width="55" height="55"/> </a> 
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer" title='Jenkins'> <img src="https://go-skill-icons.vercel.app/api/icons?i=jenkins" alt="gitHub" width="55" height="55"/> </a>
-  <a href="https://aws.amazon.com/lambda" target="_blank" rel="noreferrer" title='AWS Lambda'> <img src="https://res.cloudinary.com/ddtzx1ohw/image/upload/r_50/v1737052005/GitHub/Aws_Lambda_e0klld.png" alt="AWS Lambda" width="50" height="50"/></a>
+  <!-- <a href="https://github.com" target="_blank" rel="noreferrer" title='GitHub'> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Font_Awesome_5_brands_github-square.svg" alt="gitHub" width="55" height="55"/> </a> --> 
+  <!-- <a href="https://www.jenkins.io" target="_blank" rel="noreferrer" title='Jenkins'> <img src="https://go-skill-icons.vercel.app/api/icons?i=jenkins" alt="gitHub" width="55" height="55"/> </a> -->
+  <!-- <a href="https://aws.amazon.com/lambda" target="_blank" rel="noreferrer" title='AWS Lambda'> <img src="https://res.cloudinary.com/ddtzx1ohw/image/upload/r_50/v1737052005/GitHub/Aws_Lambda_e0klld.png" alt="AWS Lambda" width="50" height="50"/></a> -->
   <a href="https://postman.com" target="_blank" rel="noreferrer" title='Postman'> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/></a>
   <a href="https://github.com/features/actions" target="_blank" rel="noreferrer" title='Github Actions'> <img src="https://res.cloudinary.com/ddtzx1ohw/image/upload/v1732272913/GitHub/github_actions.png" alt="Github Actions" width="50" height="50"/> </a>
   <a href="https://openai.com" target="_blank" rel="noreferrer" title='OpenAI'> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/openai-icon.png" alt="OpenAI" width="50" height="50"/></a>
   <a href="https://swagger.io/" target="_blank" rel="noreferrer" title='Swagger'> <img src="https://res.cloudinary.com/ddtzx1ohw/image/upload/v1722791983/GitHub/swagger_kjeyza.svg" alt="Swagger" width="50" height="50"/> </a>
-  <a href="https://www.keycloak.org" target="_blank" rel="noreferrer" title='Keycloak'> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Keycloak_Logo.png" alt="Keycloak" width="50" height="50"/> </a>
+<!--  <a href="https://www.keycloak.org" target="_blank" rel="noreferrer" title='Keycloak'> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Keycloak_Logo.png" alt="Keycloak" width="50" height="50"/> </a> -->
   <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer" title='Visual Studio Code'> <img src="https://res.cloudinary.com/ddtzx1ohw/image/upload/v1676614161/GitHub/microsoft_visual_studio_code_macos_bigsur_icon_189957_nbuglz.png" alt="VS CODE" width="50" height="50"/> </a>
-  <a href="https://www.jetbrains.com/pycharm" target="_blank" rel="noreferrer" title='PyCharm'> <img src="https://res.cloudinary.com/ddtzx1ohw/image/upload/v1729787852/GitHub/Pycharm.png" alt="PyCharm" width="50" height="50"/> </a>
-  </a>  
+   
 </p>
 
 ### <img src="https://github.com/RahulGonela/RahulGonela/blob/main/Assets/rocket-anime.gif" width="30" height="30" alt="Rocket Gif"> My Stats :
