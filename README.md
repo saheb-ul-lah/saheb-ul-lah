@@ -13,11 +13,11 @@
 <img align="left" height="150" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="margin-right: 2rem;" />
 <img align="right" alt="coding"  width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-• 🔭 I’m currently working on <b>MEAN/</b> <b>MERN Stack</b><br/>
+• 🔭 I’m currently working on <b>PHP/</b><b>MERN Stack</b><br/>
 • 👨‍💻 Ask me about <b>Full Stack<br/>
-• 💬 Contact me at <a href="https://www.instagram.com/iam_pvn" target="_blank"><b>@iam_pvn</b></a><br/>
-• 📫 Reach me pavanmekala0129@gmail.com<br/>
-• 💼 <a href="https://pavan-mekala.web.app" target="_blank"><b> Visit My Portfolio</b></a><br/>
+• 💬 Contact me at <a href="https://www.instagram.com/saheb.ul.lah" target="_blank"><b>@saheb.ul.lah</b></a><br/>
+• 📫 Reach me at-> saheb786182@gmail.com<br/>
+• 💼 <a href="https://saheb-portfolio-khaki.vercel.app/" target="_blank"><b> Visit My Portfolio (working on it)</b></a><br/>
 </span>
 
 <br/>
