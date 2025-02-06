@@ -14,7 +14,8 @@
 <img align="right" alt="coding"  width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 • 🔭 I’m currently working on <b>PHP/</b><b>MERN Stack</b><br/>
-• 👨‍💻 Ask me about <b>Full Stack<br/>
+• 👨‍💻 Talk with me on <b>Web design/development<br/>
+• 💬 Contact no -> <b>+91 8638232587</b><br/>
 • 💬 Contact me at <a href="https://www.instagram.com/saheb.ul.lah" target="_blank"><b>@saheb.ul.lah</b></a><br/>
 • 📫 Reach me at-> saheb786182@gmail.com<br/>
 • 💼 <a href="https://saheb-portfolio-khaki.vercel.app/" target="_blank"><b> Visit My Portfolio (working on it)</b></a><br/>
@@ -24,10 +25,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/iampvn37" target="blank" title='Twitter'><img align="center" src="https://github.com/RahulGonela/RahulGonela/blob/main/Assets/twitter-anime.gif" alt="iampvn37" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/pavan-mekala-5233b1202" target="blank" title='LinkedIn'><img align="center" src="https://github.com/RahulGonela/RahulGonela/blob/main/Assets/linkedin-anime.gif" alt="http://www.linkedin.com/in/pavan-mekala-5233b1202" height="40" width="40" /></a>
-<a href="https://instagram.com/iam_pvn" target="blank" title='Instagram'><img align="center" src="https://github.com/RahulGonela/RahulGonela/blob/main/Assets/instagram-anime.gif" alt="iam_pvn" height="40" width="40" /></a>
-<a href="https://www.hackerrank.com/pavanmekala72826" target="blank" title='HackerRank'><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="HackerRank" height="40" width="40" margin="5"/></a>
+<a href="https://twitter.com/SahebUllah3" target="blank" title='Twitter'><img align="center" src="https://github.com/RahulGonela/RahulGonela/blob/main/Assets/twitter-anime.gif" alt="SahebUllah3" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/saheb-ullah-05292a258" target="blank" title='LinkedIn'><img align="center" src="https://github.com/RahulGonela/RahulGonela/blob/main/Assets/linkedin-anime.gif" alt="http://www.linkedin.com/in/saheb-ullah-05292a258" height="40" width="40" /></a>
+<a href="https://instagram.com/saheb.ul.lah" target="blank" title='Instagram'><img align="center" src="https://github.com/RahulGonela/RahulGonela/blob/main/Assets/instagram-anime.gif" alt="saheb.ul.lah" height="40" width="40" /></a>
+<!-- <a href="https://www.hackerrank.com/pavanmekala72826" target="blank" title='HackerRank'><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="HackerRank" height="40" width="40" margin="5"/></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -38,11 +39,11 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title='Javascript'> <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript" alt="javascript" width="50" height="50"/> </a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" title='Typescript'> <img src="https://go-skill-icons.vercel.app/api/icons?i=typescript" alt="Typescript" width="50" height="50"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"  title='React.js'> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a> 
-  <a href="https://angular.dev" target="_blank" rel="noreferrer" title='Angular'> <img src="https://res.cloudinary.com/ddtzx1ohw/image/upload/v1722853385/GitHub/Angular-logo_zvv8eu.png" alt="angular" width="50" height="50"/> </a> 
+  <!-- <a href="https://angular.dev" target="_blank" rel="noreferrer" title='Angular'> <img src="https://res.cloudinary.com/ddtzx1ohw/image/upload/v1722853385/GitHub/Angular-logo_zvv8eu.png" alt="angular" width="50" height="50"/> </a> -->
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer" title='PostgreSQL'> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSql" width="50" height="50"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title='MySQL'> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a>  
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" title='MongoDB'> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </a>
-  <a href="https://knexjs.org" target="_blank" rel="noreferrer" title='Knex.js'> <img src="https://knexjs.org/knex-logo.png" alt="Knex.js" width="50" height="50"/> </a>
+  <!-- <a href="https://knexjs.org" target="_blank" rel="noreferrer" title='Knex.js'> <img src="https://knexjs.org/knex-logo.png" alt="Knex.js" width="50" height="50"/> </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" title='HTML'> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" title='CSS'> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a> 
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer" title='SASS'> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS" width="50" height="50"/> </a>
