@@ -5,8 +5,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&duration=2500&pause=1000&vCenter=true&width=435&lines=Full+Stack+Developer+from+India" alt="Typing SVG" style="margin-right: 10px;">
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pa1mekala37&label=Profile%20views&color=0e75b6&style=flat" alt="pa1mekala37" /> </p>
-<p align="left"> <a href="https://twitter.com/iampvn37" target="blank"><img src="https://img.shields.io/twitter/follow/iampvn37?logo=twitter&style=for-the-badge" alt="iampvn37" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saheb-ul-lah&label=Profile%20views&color=0e75b6&style=flat" alt="saheb-ul-lah" /> </p>
+<p align="left"> <a href="https://twitter.com/SahebUllah3" target="blank"><img src="https://img.shields.io/twitter/follow/SahebUllah3?logo=twitter&style=for-the-badge" alt="SahebUllah3" /></a> </p>
 
 ## About Me :
 <!-- <img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;"> -->
