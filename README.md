@@ -15,13 +15,11 @@
 • 👨‍💻 Talk with me about **Web design/development**  
 • 💬 Contact no -> **+91 8638232587**  
 • 📫 Reach me at -> **saheb786182@gmail.com**  
-• 💼 <a href="https://saheb-portfolio-khaki.vercel.app/" target="_blank"><b>Visit My Portfolio (working on it)</b></a>  
-• 🌱 I’m currently learning **Docker, Supabase, AWS**  
+• 💼 <a href="https://saheb-portfolio.vercel.app/" target="_blank"><b>Visit My Portfolio</b></a>  
 • ⚡ Fun fact: **I love solving problems and building things from scratch!**
 
 <br/>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/SahebUllah3" target="blank" title='Twitter'><img align="center" src="https://github.com/RahulGonela/RahulGonela/blob/main/Assets/twitter-anime.gif" alt="SahebUllah3" height="40" width="40" /></a>
   <a href="https://linkedin.com/in/saheb-ullah-05292a258" target="blank" title='LinkedIn'><img align="center" src="https://github.com/RahulGonela/RahulGonela/blob/main/Assets/linkedin-anime.gif" alt="LinkedIn" height="40" width="40" /></a>
@@ -43,22 +41,12 @@
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=saheb-ul-lah&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=saheb-ul-lah&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saheb-ul-lah&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
 
 <hr/>
 
-<h2 align="center">🐍 My Contributions 🐍</h2>
-<br>
-<div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-</div>
-
-<br/><br/>
-
-<hr/>
 
 <div align="center">
   <h3>Show some ❤️ by starring some of my repositories!</h3>
