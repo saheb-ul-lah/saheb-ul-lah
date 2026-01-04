@@ -16,7 +16,6 @@
 • 💬 Contact no -> **+91 8638232587**  
 • 📫 Reach me at -> **saheb786182@gmail.com**  
 • 💼 <a href="https://saheb-portfolio.vercel.app/" target="_blank"><b>Visit My Portfolio</b></a>  
-• ⚡ Fun fact: **I love solving problems and building things from scratch!**
 
 <br/>
 
